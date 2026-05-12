@@ -4,4 +4,5 @@ while i < 6:
     print(i)
     i += 1  
 else:
-    print("i no es menor que 6")
+    print("i no es menor que 6") 
+    
